@@ -1,0 +1,9 @@
+.DS_Store
+build
+app.js
+!src/App.js
+yode
+node_modules
+*.tmp
+*.log
+package-json.lock
